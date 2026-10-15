@@ -124,3 +124,7 @@ Nein. Wie viel gleichzeitig gerechnet werden kann, hängt von der CPU ab: Gibt e
 **4. Was passiert, wenn die Job-Queue voll ist?**
 
 Dann kann main keine neuen Anfragen mehr in den Puffer legen. In dieser Umsetzung blockiert main in `pthread_cond_wait(&cond_not_full, ...)` und nimmt keine weiteren Verbindungen an, bis ein Worker einen Job entnommen hat. Neue Verbindungen sammeln sich solange im Listen-Backlog des Betriebssystems (`listen(..., 10)`). Ist auch dieser voll, nimmt das Betriebssystem weitere Verbindungsversuche nicht mehr an, bis wieder Platz ist.
+
+## Entstehung
+
+Der Code ist im Rahmen des Praktikums entstanden. Diese Dokumentation wurde mit Hilfe von Claude (Anthropic) auf Basis der Abgabe erstellt.

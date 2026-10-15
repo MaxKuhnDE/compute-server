@@ -1,0 +1,101 @@
+Starte Server auf Port 8080...
+[Thread 2] Berechne Primzahlen bis: 1987654
+[Thread 1] Berechne Primzahlen bis: 1456789
+[Thread 3] Berechne Primzahlen bis: 123456
+[Thread 4] Berechne Primzahlen bis: 321654
+[Thread 6] Berechne Primzahlen bis: 543210
+[Thread 5] Berechne Primzahlen bis: 987654
+[Thread 7] Berechne Primzahlen bis: 1122334
+[Thread 8] Berechne Primzahlen bis: 789012
+[Thread 3] Ergebnis für 123456 -> 11601
+[Thread 9] Berechne Primzahlen bis: 1567890
+[Thread 10] Berechne Primzahlen bis: 1890123
+[Thread 3] Berechne Primzahlen bis: 456789
+[Thread 4] Ergebnis für 321654 -> 27741
+[Thread 4] Berechne Primzahlen bis: 234567
+[Thread 6] Ergebnis für 543210 -> 44815
+[Thread 6] Berechne Primzahlen bis: 1678901
+[Thread 4] Ergebnis für 234567 -> 20794
+[Thread 4] Berechne Primzahlen bis: 654321
+[Thread 3] Ergebnis für 456789 -> 38224
+[Thread 8] Ergebnis für 789012 -> 63139
+[Thread 8] Berechne Primzahlen bis: 1345678
+[Thread 3] Berechne Primzahlen bis: 876543
+[Thread 5] Ergebnis für 987654 -> 77614
+[Thread 5] Berechne Primzahlen bis: 1550000
+[Thread 7] Ergebnis für 1122334 -> 87337
+[Thread 7] Berechne Primzahlen bis: 345678
+[Thread 7] Ergebnis für 345678 -> 29628
+[Thread 7] Berechne Primzahlen bis: 1789012
+[Thread 1] Ergebnis für 1456789 -> 111119
+[Thread 1] Berechne Primzahlen bis: 567890
+[Thread 4] Ergebnis für 654321 -> 53147
+[Thread 4] Berechne Primzahlen bis: 1290123
+[Thread 1] Ergebnis für 567890 -> 46659
+[Thread 1] Berechne Primzahlen bis: 432109
+[Thread 8] Ergebnis für 1345678 -> 103259
+[Thread 8] Berechne Primzahlen bis: 1901234
+[Thread 6] Ergebnis für 1678901 -> 126678
+[Thread 6] Berechne Primzahlen bis: 765432
+[Thread 3] Ergebnis für 876543 -> 69571
+[Thread 3] Berechne Primzahlen bis: 1112223
+[Thread 1] Ergebnis für 432109 -> 36328
+[Thread 1] Berechne Primzahlen bis: 3600000
+[Thread 2] Ergebnis für 1987654 -> 148066
+[Thread 2] Berechne Primzahlen bis: 1432109
+[Thread 5] Ergebnis für 1550000 -> 117663
+[Thread 5] Berechne Primzahlen bis: 500001
+[Thread 6] Ergebnis für 765432 -> 61392
+[Thread 6] Berechne Primzahlen bis: 1999999
+[Thread 5] Ergebnis für 500001 -> 41538
+[Thread 5] Berechne Primzahlen bis: 1000001
+[Thread 7] Ergebnis für 1789012 -> 134299
+[Thread 7] Berechne Primzahlen bis: 1500000
+[Thread 9] Ergebnis für 1567890 -> 118919
+[Thread 9] Berechne Primzahlen bis: 200000
+[Thread 9] Ergebnis für 200000 -> 17984
+[Thread 9] Berechne Primzahlen bis: 900001
+[Thread 5] Ergebnis für 1000001 -> 78498
+[Thread 5] Berechne Primzahlen bis: 1750000
+[Thread 2] Ergebnis für 1432109 -> 109356
+[Thread 2] Berechne Primzahlen bis: 1250000
+[Thread 4] Ergebnis für 1290123 -> 99339
+[Thread 4] Berechne Primzahlen bis: 800000
+[Thread 3] Ergebnis für 1112223 -> 86620
+[Thread 3] Berechne Primzahlen bis: 1600000
+[Thread 10] Ergebnis für 1890123 -> 141349
+[Thread 10] Berechne Primzahlen bis: 300000
+[Thread 9] Ergebnis für 900001 -> 71275
+[Thread 9] Berechne Primzahlen bis: 1300000
+[Thread 10] Ergebnis für 300000 -> 25997
+[Thread 10] Berechne Primzahlen bis: 600000
+[Thread 4] Ergebnis für 800000 -> 63951
+[Thread 4] Berechne Primzahlen bis: 1100000
+[Thread 10] Ergebnis für 600000 -> 49098
+[Thread 10] Berechne Primzahlen bis: 400000
+[Thread 8] Ergebnis für 1901234 -> 142112
+[Thread 8] Berechne Primzahlen bis: 1800000
+[Thread 2] Ergebnis für 1250000 -> 96469
+[Thread 2] Berechne Primzahlen bis: 700000
+[Thread 7] Ergebnis für 1500000 -> 114155
+[Thread 7] Berechne Primzahlen bis: 1400000
+[Thread 10] Ergebnis für 400000 -> 33860
+[Thread 10] Berechne Primzahlen bis: 500000
+[Thread 2] Ergebnis für 700000 -> 56543
+[Thread 2] Berechne Primzahlen bis: 1000000
+[Thread 5] Ergebnis für 1750000 -> 131608
+[Thread 5] Berechne Primzahlen bis: 2000000
+[Thread 9] Ergebnis für 1300000 -> 100021
+[Thread 9] Berechne Primzahlen bis: 1350000
+[Thread 10] Ergebnis für 500000 -> 41538
+[Thread 10] Berechne Primzahlen bis: 275000
+[Thread 3] Ergebnis für 1600000 -> 121127
+[Thread 6] Ergebnis für 1999999 -> 148933
+[Thread 10] Ergebnis für 275000 -> 24038
+[Thread 2] Ergebnis für 1000000 -> 78498
+[Thread 4] Ergebnis für 1100000 -> 85714
+[Thread 8] Ergebnis für 1800000 -> 135072
+[Thread 9] Ergebnis für 1350000 -> 103544
+[Thread 7] Ergebnis für 1400000 -> 107126
+[Thread 1] Ergebnis für 3600000 -> 256726
+[Thread 5] Ergebnis für 2000000 -> 148933
